@@ -28,14 +28,6 @@ ReactDOM.render(
       number="+987 654 321"
       email="jack@nowhere.com"
     />
-
-    <Card
-      name="Chuck Norris"
-      img="https://i.pinimg.com/originals/e3/94/47/e39447de921955826b1e498ccf9a39af.png"
-      alt="avatar_img"
-      number="+918 372 574"
-      email="gmail@chucknorris.com"
-    />
   </body>,
   document.getElementById("root")
 );
